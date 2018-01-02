@@ -1,6 +1,6 @@
-### **tata kelola data & informasi**
+e### tata kelola data & informasi
+```shell
+sektoral dan spasial 
+Provinsi Banten periode tahun 2017-2022
+```
 
-> Pemerintah Provinsi Banten
-> Badan Perencanaan Pembangunan Daerah
-> 2018
----
