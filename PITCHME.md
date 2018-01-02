@@ -1,4 +1,4 @@
----?background = /assets/images/5.jpg
+---?image=/assets/images/5.jpg
 ### tata kelola data & informasi 
 ### sektoral dan spasial 
 ###### Provinsi Banten periode tahun 2017-2022
