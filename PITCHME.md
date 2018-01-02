@@ -1,5 +1,5 @@
----?image : assets/images/3_oily.jpg
+---?image=assets/images/3_oily.jpg
 # tata kelola data & informasi
-
+### di lingkungan Pemerintah Provinsi Banten
 ---
 adalah
