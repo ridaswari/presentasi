@@ -1,6 +1,3 @@
-e### tata kelola data & informasi
-```shell
-sektoral dan spasial 
-Provinsi Banten periode tahun 2017-2022
-```
+#### tata kelola data & informasi sektoral dan spasial 
+###### Provinsi Banten periode tahun 2017-2022
 
