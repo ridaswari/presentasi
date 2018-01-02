@@ -1,5 +1,5 @@
 ---?image=assets/images/10.jpg
-### tata kelola data & informasi
-#### di lingkungan Pemerintah Provinsi Banten
+### __tata kelola data & informasi__
+#### > di lingkungan Pemerintah Provinsi Banten
 ---
-adalah
+
