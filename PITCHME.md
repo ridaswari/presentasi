@@ -2,7 +2,6 @@
 <br>
 <br>
 ## Quick Wins
-<br>
 #### langkah kecil untuk lompatan besar
 <br>
 
