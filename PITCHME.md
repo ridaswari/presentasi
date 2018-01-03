@@ -19,6 +19,16 @@
 @title[prinsip]
 
 ## prinsip
+* Pengungkit
+* Mudah dan Cepat
+* Berdampak positif
+* Memotivasi
+* Memperbaiki
+* Meyakinkan dan Nyata
+* Independen
+
+---
+
 <span style="font-size:0.5em; color:olive">__PENGUNGKIT,__ bermanfaat untuk mendapatkan momentum positif dan kepercayaan diri mengawali tugas berat</span>
 <br>
 <span style="font-size:0.5em; color:olive">__MUDAH & CEPAT,__ mudah dilaksanakan dan cepat dirasakan</span>
