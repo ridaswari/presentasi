@@ -1,8 +1,9 @@
 @title[opening]
 <br>
 <br>
-Quick Wins
-langkah kecil untuk lompatan besar
+## Quick Wins
+<br>
+#### langkah kecil untuk lompatan besar
 <br>
 
 ---
