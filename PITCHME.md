@@ -50,12 +50,12 @@ pekerjaan yang lebih berat</span>
 
 ## kriteria
 
-#### NO | KRITERIA | YA | TIDAK 
-#### -- | -------- | -- | -----
-#### 1 | Merupakan Program RPJMD |   |  
-#### 2 | Merupakan bagian utama dari peran, tugas, fungsi dan karakteristik Pemprov |   |
-#### 3 | Memberikan dampak perubahan yang besar |   |
-#### 4 | Manfaat perbaikan dan perubahan dapat dirasakan secepatnya (kurang dari 12 bulan) |    |
+NO | KRITERIA | YA | TIDAK 
+-- | -------- | -- | -----
+ 1 | Merupakan Program RPJMD |   |  
+ 2 | Merupakan bagian utama dari peran, tugas, fungsi dan karakteristik Pemprov |   |
+ 3 | Memberikan dampak perubahan yang besar |   |
+ 4 | Manfaat perbaikan dan perubahan dapat dirasakan secepatnya (kurang dari 12 bulan) |    |
 
 
 ---
