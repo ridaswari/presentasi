@@ -1,53 +1,24 @@
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
-
-#### quick wins
-##### tata kelola data dan informasi
-##### Provinsi Banten tahun 2018
-
----
-
-@title[quickwins]
-
-## quick wins
-##### Permenpan RB 12/2011
-
-###### inisiatif untuk memperoleh momentum awal yang positif dan kepercayaan diri dari pemangku kepentingan dalam mengawali program besar dan sulit
+@title[opening]
+<br>
+<br>
+Quick Wins
+langkah kecil untuk lompatan besar
+<br>
 
 ---
 
-@title[prinsip]
+@title[sejarah]
 
-## prinsip
-* Pengungkit
-* Mudah dan Cepat
-* Berdampak positif
-* Memotivasi
-* Memperbaiki
-* Meyakinkan dan Nyata
-* Independen
-
----
-
-@title[kriteria]
-
-## kriteria
-
-<span style="font-size:0.8em; color:olive">NO | KRITERIA | YA | TIDAK 
--- | -------- | -- | -----
- 1 | Merupakan Program RPJMD |   |  
- 2 | Merupakan bagian utama dari peran, tugas, fungsi dan karakteristik Pemprov |   |
- 3 | Memberikan dampak perubahan yang besar |   |
- 4 | Manfaat perbaikan dan perubahan dapat dirasakan secepatnya (kurang dari 12 bulan) |    |</span>
-
----
-pilihan :
-- organization quick wins
-- regulation quick wins
-- human resource quick wins
+<br>
+### *jangan lupa sejarah*
+#### pengelolaan data dan informasi
+##### RPJMD 2012-2017
+<br>
 
 +++
 
-## organization quick wins
-
+### *2012-2017*
+- lahir program *statistik* sebagai payung bagi kegiatan pengelolaan data dan informasi
+- tidak ada standar output dan anggaran
+- e-government > booming *aplikasi* dan penyediaan infrastruktur jaringan/internet
 
