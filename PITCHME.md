@@ -29,7 +29,7 @@
 
 ---
 
-<span style="font-size:0.5em; color:olive">__PENGUNGKIT,__ bermanfaat untuk mendapatkan momentum positif dan kepercayaan diri mengawali tugas berat</span>
+>__PENGUNGKIT,__ bermanfaat untuk mendapatkan momentum positif dan kepercayaan diri mengawali tugas berat</span>
 <br>
 <span style="font-size:0.5em; color:olive">__MUDAH & CEPAT,__ mudah dilaksanakan dan cepat dirasakan</span>
 <br>
@@ -50,13 +50,13 @@ pekerjaan yang lebih berat</span>
 
 ## kriteria
 
-NO | KRITERIA | YA | TIDAK 
+<span style="font-size:0.8em; color:olive"> NO | KRITERIA | YA | TIDAK 
 -- | -------- | -- | -----
  1 | Merupakan Program RPJMD |   |  
  2 | Merupakan bagian utama dari peran, tugas, fungsi dan karakteristik Pemprov |   |
  3 | Memberikan dampak perubahan yang besar |   |
  4 | Manfaat perbaikan dan perubahan dapat dirasakan secepatnya (kurang dari 12 bulan) |    |
-
+</span>
 
 ---
 pilihan :
