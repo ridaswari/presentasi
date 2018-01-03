@@ -1,3 +1,6 @@
+<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
+<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+
 #### quick wins
 ##### tata kelola data dan informasi
 ##### Provinsi Banten tahun 2018
