@@ -20,20 +20,20 @@
 
 ## prinsip
 
-#### **pengungkit** 
-<span style="font-size:0.8em; color:olive">bermanfaat untuk mendapatkan momentum positif dan kepercayaan diri mengawali tugas berat</span>
-#### **mudah dan cepat** 
-<span style="font-size:0.8em; color:olive">mudah dilaksanakan dan cepat dirasakan</span>
-####-**dampak** 
-<span style="font-size:0.8em; color:olive">berdampak positif terhadap kepercayaan diri dan motivasi  pemangku kepentingan</span>
-#### **memotivasi** 
-<span style="font-size:0.8em; color:olive">inisiatif yang dikerjakan mudah dikerjakan dan cepat dicapai, sehingga memotivasi individu/kelompok untuk melanjutkan ke  
+###### **pengungkit** 
+<span style="font-size:0.5em; color:olive">bermanfaat untuk mendapatkan momentum positif dan kepercayaan diri mengawali tugas berat</span>
+###### **mudah dan cepat** 
+<span style="font-size:0.5em; color:olive">mudah dilaksanakan dan cepat dirasakan</span>
+###### **dampak** 
+<span style="font-size:0.5em; color:olive">berdampak positif terhadap kepercayaan diri dan motivasi  pemangku kepentingan</span>
+###### **memotivasi** 
+<span style="font-size:0.5em; color:olive">inisiatif yang dikerjakan mudah dikerjakan dan cepat dicapai, sehingga memotivasi individu/kelompok untuk melanjutkan ke  
 pekerjaan yang lebih berat</span>
-#### **memperbaiki** 
-<span style="font-size:0.8em; color:olive">inisiatif yang dipilih mampu memperbaiki sistem dan mekanisme kerja organisasional</span>
-#### **meyakinkan dan nyata** <span style="font-size:0.8em; color:olive">inisiatif yang dipilih mampu meyakinkan pemangku kepentingan eksternal dan internal dapat memberikan manfaat 
+###### **memperbaiki** 
+<span style="font-size:0.5em; color:olive">inisiatif yang dipilih mampu memperbaiki sistem dan mekanisme kerja organisasional</span>
+###### **meyakinkan dan nyata** <span style="font-size:0.8em; color:olive">inisiatif yang dipilih mampu meyakinkan pemangku kepentingan eksternal dan internal dapat memberikan manfaat 
 yang diinginkan dan sesuai dengan harapan</span>
-#### **independen** <span style="font-size:0.8em; color:olive">dibawah kontrol Pemprov dan tidak tergantung secara dominan oleh pihak K/L atau Pemda lainnya</span>
+###### **independen** <span style="font-size:0.5em; color:olive">dibawah kontrol Pemprov dan tidak tergantung secara dominan oleh pihak K/L atau Pemda lainnya</span>
 
 ---
 
